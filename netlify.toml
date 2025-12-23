@@ -3,3 +3,38 @@
   from = "/thank-you"
   to = "/thank-you.html"
   status = 200
+
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Content-Type = "text/html; charset=utf-8"
+
+[[headers]]
+  for = "/atlanta-attorney"
+  [headers.values]
+    Content-Type = "text/html; charset=utf-8"
+
+[[headers]]
+  for = "/marietta-attorney"
+  [headers.values]
+    Content-Type = "text/html; charset=utf-8"
+
+[[headers]]
+  for = "/woodstock-attorney"
+  [headers.values]
+    Content-Type = "text/html; charset=utf-8"
+
+[[headers]]
+  for = "/alpharetta-attorney"
+  [headers.values]
+    Content-Type = "text/html; charset=utf-8"
+
+[[headers]]
+  for = "/atlanta-small-business-attorney"
+  [headers.values]
+    Content-Type = "text/html; charset=utf-8"
+
+[[headers]]
+  for = "/atlanta-entertainment-attorney"
+  [headers.values]
+    Content-Type = "text/html; charset=utf-8"
