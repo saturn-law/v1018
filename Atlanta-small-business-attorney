@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Atlanta Small Business Litigation Attorney | Business Disputes | Saturn Law</title>
+  <meta name="description" content="Atlanta small business litigation attorney for contract disputes, partnership conflicts, and business disputes. Saturn Law helps businesses resolve conflicts strategically." />
+  <link rel="canonical" href="https://www.saturn-law.com/atlanta-small-business-litigation-attorney" />
+  <style>
+    :root { --navy:#0A1F44; --orange:#FF6600; --ink:#0D223F; --panel:#F5F7FA; }
+    html,body { margin:0; padding:0; }
+    body { font-family: Georgia, 'Times New Roman', Times, serif; color:var(--ink); background:#fff; line-height:1.6; }
+    header { position:sticky; top:0; z-index:10; background:#fff; box-shadow:0 1px 0 rgba(13,34,63,0.08); }
+    .wrap { max-width:1200px; margin:0 auto; padding:14px 20px; }
+    .header-row { display:flex; align-items:center; justify-content:space-between; gap:20px; }
+    .logo img { height:100px; width:auto; display:block; }
+    @media (max-width: 640px) { .logo img { height:76px; } }
+    nav ul { list-style:none; display:flex; gap:22px; margin:0; padding:0; }
+    nav a { text-decoration:none; color:var(--navy); font-weight:600; }
+    nav a:hover { color:var(--orange); }
+    .hero { background:var(--navy); color:#fff; text-align:center; padding:78px 20px; }
+    .hero h1 { font-size:clamp(30px,4vw,46px); margin:0 0 14px; }
+    .hero p { max-width:900px; margin:0 auto 22px; color:#E6ECF5; }
+    .cta { display:inline-block; background:var(--orange); color:#fff; text-decoration:none; padding:14px 22px; border-radius:8px; font-weight:700; }
+    section { padding:52px 20px; }
+    h2 { text-align:center; color:var(--navy); margin:0 0 18px; font-size:clamp(22px,3vw,32px); }
+    .content { max-width:920px; margin:0 auto; }
+    .panel { background:var(--panel); }
+    ul { padding-left:18px; }
+    .note { font-size:14px; color:rgba(13,34,63,0.75); }
+    footer { background:var(--navy); color:#DCE6F5; padding:22px; }
+    footer .footer-row { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; max-width:1200px; margin:0 auto; }
+    footer a { color:var(--orange); text-decoration:none; font-weight:700; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap header-row">
+      <a class="logo" href="/#home" aria-label="Saturn Law home">
+        <img src="saturn-law-logo.svg" alt="Saturn Law logo" />
+      </a>
+      <nav aria-label="Main">
+        <ul>
+          <li><a href="/#home">Home</a></li>
+          <li><a href="/#practice">Practice Areas</a></li>
+          <li><a href="/#about">About</a></li>
+          <li><a href="/#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Atlanta Small Business Litigation Attorney</h1>
+      <p>
+        Business disputes are rarely “just business.” Deadlines, leverage, and documentation decide outcomes.
+        Saturn Law represents small businesses and entrepreneurs in Atlanta in contract disputes, partnership conflicts, and litigation strategy.
+      </p>
+      <a class="cta" href="/#contact">Contact Saturn Law</a>
+    </section>
+
+    <section>
+      <h2>Types of Business Disputes</h2>
+      <div class="content">
+        <ul>
+          <li><strong>Contract disputes:</strong> non-performance, late performance, scope fights, payment disputes.</li>
+          <li><strong>Partnership / ownership conflicts:</strong> breakdowns between owners, governance disputes, exit leverage.</li>
+          <li><strong>Vendor and customer disputes:</strong> recurring commercial conflicts that drain time and money.</li>
+          <li><strong>Demand letters and negotiation:</strong> using facts and leverage to reach resolution early when possible.</li>
+        </ul>
+        <p class="note">
+          For general location coverage, see <a href="/atlanta-attorney">Atlanta Attorney</a>.
+        </p>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>How We Approach Litigation</h2>
+      <div class="content">
+        <p>
+          Litigation strategy starts before a complaint is filed. We identify the governing documents, the most important facts,
+          the pressure points, and the fastest path to a durable outcome. If the matter belongs in court, we build the record early.
+        </p>
+        <ul>
+          <li>Early case assessment and strategy memo (what matters, what doesn’t, and why).</li>
+          <li>Document and timeline organization to support negotiation or filing.</li>
+          <li>Demand letter strategy aligned with your leverage and goals.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>Related Practice</h2>
+      <div class="content">
+        <p>
+          For creators and media-side matters, see <a href="/atlanta-entertainment-attorney">Atlanta Entertainment Attorney</a>.
+        </p>
+        <a class="cta" href="/#contact">Send a Message</a>
+        <p class="note">Submitting this form does not create an attorney client relationship.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-row">
+      <div>© <script>document.write(new Date().getFullYear())</script> Saturn Law</div>
+      <div>Atlanta, Georgia · <a href="mailto:cleary@saturn-law.com">cleary@saturn-law.com</a></div>
+    </div>
+  </footer>
+</body>
+</html>
