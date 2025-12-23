@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alpharetta Attorney | Business Disputes & Contracts | Saturn Law</title>
+  <meta name="description" content="Saturn Law serves clients in Alpharetta and metro Atlanta with business dispute strategy, contract work, and litigation-focused counsel for small businesses and creators." />
+  <link rel="canonical" href="https://www.saturn-law.com/alpharetta-attorney" />
+  <style>
+    :root { --navy:#0A1F44; --orange:#FF6600; --ink:#0D223F; --panel:#F5F7FA; }
+    html,body { margin:0; padding:0; }
+    body { font-family: Georgia, 'Times New Roman', Times, serif; color:var(--ink); background:#fff; line-height:1.6; }
+    header { position:sticky; top:0; z-index:10; background:#fff; box-shadow:0 1px 0 rgba(13,34,63,0.08); }
+    .wrap { max-width:1200px; margin:0 auto; padding:14px 20px; }
+    .header-row { display:flex; align-items:center; justify-content:space-between; gap:20px; }
+    .logo img { height:100px; width:auto; display:block; }
+    @media (max-width: 640px) { .logo img { height:76px; } }
+    nav ul { list-style:none; display:flex; gap:22px; margin:0; padding:0; }
+    nav a { text-decoration:none; color:var(--navy); font-weight:600; }
+    nav a:hover { color:var(--orange); }
+    .hero { background:var(--navy); color:#fff; text-align:center; padding:78px 20px; }
+    .hero h1 { font-size:clamp(30px,4vw,46px); margin:0 0 14px; }
+    .hero p { max-width:860px; margin:0 auto 22px; color:#E6ECF5; }
+    .cta { display:inline-block; background:var(--orange); color:#fff; text-decoration:none; padding:14px 22px; border-radius:8px; font-weight:700; }
+    section { padding:52px 20px; }
+    h2 { text-align:center; color:var(--navy); margin:0 0 18px; font-size:clamp(22px,3vw,32px); }
+    .content { max-width:920px; margin:0 auto; }
+    .panel { background:var(--panel); }
+    ul { padding-left:18px; }
+    .note { font-size:14px; color:rgba(13,34,63,0.75); }
+    footer { background:var(--navy); color:#DCE6F5; padding:22px; }
+    footer .footer-row { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; max-width:1200px; margin:0 auto; }
+    footer a { color:var(--orange); text-decoration:none; font-weight:700; }
+    .links a { display:inline-block; margin-right:14px; margin-bottom:8px; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap header-row">
+      <a class="logo" href="/#home" aria-label="Saturn Law home">
+        <img src="saturn-law-logo.svg" alt="Saturn Law logo" />
+      </a>
+      <nav aria-label="Main">
+        <ul>
+          <li><a href="/#home">Home</a></li>
+          <li><a href="/#practice">Practice Areas</a></li>
+          <li><a href="/#about">About</a></li>
+          <li><a href="/#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Alpharetta Attorney</h1>
+      <p>
+        Saturn Law serves clients in Alpharetta and metro Atlanta with focused counsel for business disputes, contract issues, and rights-driven matters.
+        We aim for clear strategy, fast understanding, and forward progress.
+      </p>
+      <a class="cta" href="/#contact">Contact Saturn Law</a>
+    </section>
+
+    <section>
+      <h2>What We Handle</h2>
+      <div class="content">
+        <ul>
+          <li><strong>Business disputes:</strong> contract breakdowns, partnership issues, and disputes with vendors or customers.</li>
+          <li><strong>Contracts:</strong> drafting, review, and enforcement with leverage-focused planning.</li>
+          <li><strong>Creator and media matters:</strong> deal review and dispute posture for independent professionals.</li>
+        </ul>
+        <p class="note">
+          For Atlanta-focused pages, see <a href="/atlanta-attorney">Atlanta Attorney</a>,
+          <a href="/atlanta-small-business-litigation-attorney">Atlanta Small Business Litigation</a>, and
+          <a href="/atlanta-entertainment-attorney">Atlanta Entertainment Attorney</a>.
+        </p>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Alpharetta + Metro Atlanta</h2>
+      <div class="content">
+        <p>
+          Alpharetta businesses and creators often operate across metro Atlanta. We keep the strategy aligned with how counterparties actually behave:
+          documentation, leverage, and deadlines.
+        </p>
+        <div class="links">
+          <a href="/marietta-attorney">Marietta Attorney</a>
+          <a href="/woodstock-attorney">Woodstock Attorney</a>
+          <a href="/atlanta-attorney">Atlanta Attorney</a>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Next Step</h2>
+      <div class="content">
+        <p>Use the contact form and include key facts, what outcome you want, and any deadlines.</p>
+        <a class="cta" href="/#contact">Send a Message</a>
+        <p class="note">Submitting this form does not create an attorney client relationship.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-row">
+      <div>© <script>document.write(new Date().getFullYear())</script> Saturn Law</div>
+      <div>Atlanta, Georgia · <a href="mailto:cleary@saturn-law.com">cleary@saturn-law.com</a></div>
+    </div>
+  </footer>
+</body>
+</html>
